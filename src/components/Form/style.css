@@ -1,0 +1,37 @@
+.container-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+    width: 300px;
+    background-color: #dde1fc;
+    border-radius: 10px;
+}
+
+h4 {
+    color: navy;
+    margin: 15px;
+}
+
+.error{
+    color: red;
+    font-size: 14px;
+}
+
+.checkbox-label {
+    color: grey;
+    font-size: 14px;
+}
+
+.checkbox-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.cards-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
